@@ -5,6 +5,7 @@ function HolaMundo(nombre, edad){
   var presentacion =<div>
   <h2>{nombre}</h2>
   <h2>Mi edad actual es {edad}</h2>
+  <h2>Soy ingeniero en CIENCIAS DE LA COMPUTACION</h2>
   </div>
 
   return presentacion;
